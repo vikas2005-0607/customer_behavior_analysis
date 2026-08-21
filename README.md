@@ -51,16 +51,7 @@ The dataset contains information related to customer shopping behavior, includin
 * Compare customer behavior based on demographics
 * Generate useful business insights using data
 
-## 📁 Project Structure
 
-```text
-customer_behavior_analysis/
-│
-├── customer_shopping_behavior.csv
-├── customer_behavior_analysis.ipynb
-├── analysis.sql
-└── README.md
-```
 
 ## 🚀 How to Run
 
